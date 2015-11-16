@@ -9,7 +9,6 @@ float raizmb(int n)
   {
     r=i*i;
     b=i-1;
-    cout << b << endl;
   }
 
   for(i=1;i<10;i++)
